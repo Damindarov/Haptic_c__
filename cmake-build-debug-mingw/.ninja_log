@@ -1,0 +1,6 @@
+# ninja log v5
+2	935	7343521633043409	CMakeFiles/Haptic_c__.dir/main.cpp.obj	ac0e9d7a944fad46
+935	1002	7343521633683404	Haptic_c__.exe	399e2aaec99b0e9b
+3	936	7342167562939738	CMakeFiles/Haptic_c__.dir/server.cpp.obj	7fb13d855e955a14
+2	1268	7338568066758472	CMakeFiles/Haptic_c__.dir/client.cpp.obj	609cb28a811036aa
+0	91	7346454735406285	build.ninja	4d4db770d6f52ab6

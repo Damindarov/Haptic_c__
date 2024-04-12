@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="H:\Haptic_c++\cmake-build-debug-visual-studio\CMakeFiles\ee74aeeefbd3b717d0de0f9b59c93f61\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2D81AB9B-2FAF-32F8-9477-666438AC8F0A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
